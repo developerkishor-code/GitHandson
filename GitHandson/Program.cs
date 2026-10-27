@@ -1,9 +1,1 @@
-
-YourFriends(new string[] { "Alice","Palic","kiku"});
- 
-
-
-static void YourFriends(String[] name)
-{
-   LearningStatements.Run();
-}
+Console.WriteLine(LearningStatements.GetMax(1000, 20,300));
