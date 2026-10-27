@@ -1,0 +1,15 @@
+/Users/bhanugaur/Documents/GitHandson/GitHandson/bin/Debug/net10.0/GitHandson
+/Users/bhanugaur/Documents/GitHandson/GitHandson/bin/Debug/net10.0/GitHandson.deps.json
+/Users/bhanugaur/Documents/GitHandson/GitHandson/bin/Debug/net10.0/GitHandson.runtimeconfig.json
+/Users/bhanugaur/Documents/GitHandson/GitHandson/bin/Debug/net10.0/GitHandson.dll
+/Users/bhanugaur/Documents/GitHandson/GitHandson/bin/Debug/net10.0/GitHandson.pdb
+/Users/bhanugaur/Documents/GitHandson/GitHandson/obj/Debug/net10.0/GitHandson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhanugaur/Documents/GitHandson/GitHandson/obj/Debug/net10.0/GitHandson.AssemblyInfoInputs.cache
+/Users/bhanugaur/Documents/GitHandson/GitHandson/obj/Debug/net10.0/GitHandson.AssemblyInfo.cs
+/Users/bhanugaur/Documents/GitHandson/GitHandson/obj/Debug/net10.0/GitHandson.csproj.CoreCompileInputs.cache
+/Users/bhanugaur/Documents/GitHandson/GitHandson/obj/Debug/net10.0/GitHandson.sourcelink.json
+/Users/bhanugaur/Documents/GitHandson/GitHandson/obj/Debug/net10.0/GitHandson.dll
+/Users/bhanugaur/Documents/GitHandson/GitHandson/obj/Debug/net10.0/refint/GitHandson.dll
+/Users/bhanugaur/Documents/GitHandson/GitHandson/obj/Debug/net10.0/GitHandson.pdb
+/Users/bhanugaur/Documents/GitHandson/GitHandson/obj/Debug/net10.0/GitHandson.genruntimeconfig.cache
+/Users/bhanugaur/Documents/GitHandson/GitHandson/obj/Debug/net10.0/ref/GitHandson.dll
