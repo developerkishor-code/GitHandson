@@ -1,1 +1,1 @@
-Console.WriteLine(LearningStatements.GetMax(1000, 20,300));
+Console.WriteLine(SwitchStatements.GetDayOfWeek(60));    
