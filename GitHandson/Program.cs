@@ -1,1 +1,1 @@
-Console.WriteLine(SwitchStatements.GetDayOfWeek(60));    
+GuessGane.GuessGameT(); 

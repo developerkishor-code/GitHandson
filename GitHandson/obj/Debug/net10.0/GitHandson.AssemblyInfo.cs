@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitHandson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caaa48735fc7a021aae3b2669aa938727ac71f74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01430cd1c66fd67af812e500f7f7242548e9d692")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitHandson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitHandson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
